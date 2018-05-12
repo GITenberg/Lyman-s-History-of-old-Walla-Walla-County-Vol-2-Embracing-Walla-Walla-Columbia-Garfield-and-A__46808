@@ -1,4 +1,8 @@
 _repo: Lyman-s-History-of-old-Walla-Walla-County-Vol-2-Embracing-Walla-Walla-Columbia-Garfield-and-A__46808
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46808-h/images/cover.jpg
 creator:
   author:
     agent_name: Lyman, William Denison
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '39996'
     url: http://www.gutenberg.org/2009/agents/39996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46808#Lyman-s-History-of-old-Walla-Walla-County-Vol-2-Embracing-Walla-Walla-Columbia-Garfield-and-A_
 gutenberg_issued: '2014-09-08'
 gutenberg_type: Text
 identifiers:
